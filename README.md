@@ -29,18 +29,32 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 <br>First, write the SQL commands to insert data into each of the tables. Your insert statements should also be included in the lab2.sql file.  **The data files are listed in the repository for this lab**
 1.  Write the SQL command to list all clients and all the columns pertaining to a client.  The intended output is below.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/1.PNG" width="350" alt="output query 1"/>
+<img width="368" alt="Deliverable 2 1" src="https://user-images.githubusercontent.com/97986841/204910116-80493f9c-9816-45d1-819e-95b17f326f95.png">
+
 2.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
 
 3.  Write the SQL command to display all policies that have a policy type of 'Home'.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/3.PNG" width="300" alt="output query 3"/>
+<img width="408" alt="Deliverable 2 3" src="https://user-images.githubusercontent.com/97986841/204911120-494609ce-5254-4764-9088-d57a9429bc9b.png">
+
+
 4.  Write the SQL command to display all columns for policies that have yearly terms
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/4.PNG" width="300" alt="output query 4"/>
+<img width="361" alt="2 4" src="https://user-images.githubusercontent.com/97986841/204910296-f6eee2d5-057e-4bb9-9c47-6e4480232d62.png">
+
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
+<img width="358" alt="2 5" src="https://user-images.githubusercontent.com/97986841/204910328-e03eaa63-c498-490b-83a3-83f7421313c9.png">
+
 6.  Write the SQL command that calculates the average age of all clients
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/6.PNG" width="90" alt="output query 6"/>
+<img width="152" alt="2 6" src="https://user-images.githubusercontent.com/97986841/204910645-c88ff125-ff22-452b-b8c1-75a7fc165528.png">
+
 7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/7.PNG" width="180" alt="output query 7"/>
+<img width="174" alt="2 7" src="https://user-images.githubusercontent.com/97986841/204910744-7fd8e0a0-e340-4093-9642-8d475f79a9b5.png">
+
+<img src="https://instructorc.github.io/site/slides/database/images/lab3/6.PNG" width="90" alt="output query 6"/>
 8.  Write the SQL command that lists all home policies that have a policy limit under $250,000.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/8.PNG" width="270" alt="output query 8"/>
 9.  Write the SQL  command that lists the client's name and address for all addresses that contain 'Featherstone' and order by age in ascending order.
