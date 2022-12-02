@@ -68,6 +68,8 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 11.  Write the SQL command that returns the total # of policies offered
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/11.PNG" width="80" alt="output query 11"/>
+<img width="122" alt="2 11" src="https://user-images.githubusercontent.com/97986841/205213547-1a5bbc72-99a9-4f05-a9fe-e6f70f25d8e5.png">
+
 12.  Write the SQL command that returns the policy type and the total count of policies by type
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/12.PNG" width="170" alt="output query 12"/>
 13.  Write the SQL command that returns the youngest and oldest client
