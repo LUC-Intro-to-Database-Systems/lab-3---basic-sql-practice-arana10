@@ -106,6 +106,7 @@ For this lab, you will submit 2 items to the repository that has been assigned t
 Once you have completed both of the items above, you will need to submit the link to your repository for lab3 prior to the due date and time listed.  Make sure you receive an email confirmation notifying you that the assignment has been submitted.
 
 
+
 ## Lab Resources
 - [W3 Schools SQL tutorial](https://www.w3schools.com/sql/)
 - [Make a ReadMe file Web-based Editor](https://www.makeareadme.com/)
