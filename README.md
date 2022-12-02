@@ -72,16 +72,26 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 12.  Write the SQL command that returns the policy type and the total count of policies by type
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/12.PNG" width="170" alt="output query 12"/>
+<img width="227" alt="2 12" src="https://user-images.githubusercontent.com/97986841/205215144-2df71f68-0d67-41b1-a730-a2de6d13d216.png">
+
 13.  Write the SQL command that returns the youngest and oldest client
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="output query 13"/>
+<img width="238" alt="2 13" src="https://user-images.githubusercontent.com/97986841/205215161-c58a26dd-3605-482e-a021-0070106bc6eb.png">
+
 14.  Write the SQL command that lists all clients that have a home insurance policy
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/14.PNG" width="450" alt="output query 14"/>
+<img width="674" alt="2 14" src="https://user-images.githubusercontent.com/97986841/205215173-69c08ab7-86c0-4f19-9480-ead5be2c29a8.png">
+
 15.  Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/15.PNG" width="450" alt="output query 15"/>
+<img width="667" alt="2 15" src="https://user-images.githubusercontent.com/97986841/205215203-e652f4ea-9011-46c9-bcfe-bf22f43556d1.png">
+
 
 ### Extra Credit (2 Points)
 List all clients along with their respective policies.<br>
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/ec.PNG" width="550" alt="output query Extra credit"/>
+<img width="671" alt="Extra Credit" src="https://user-images.githubusercontent.com/97986841/205215233-95f13d33-0af6-4312-9c49-8aa0d415ea39.png">
+
 
 
 
